@@ -10,7 +10,6 @@
   "author": " ",
   "license": "ISC",
   "dependencies": {
-    "express":"latest",
-    "ejs":"latest"
+    "express":"latest"
   }
 }
